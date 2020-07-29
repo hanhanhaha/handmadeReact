@@ -17,5 +17,4 @@ let a =
 </MyComponent>
     </div>
     
-
 ToyReact.render(a,document.body)
