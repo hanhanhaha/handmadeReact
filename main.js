@@ -16,4 +16,5 @@ let a =
     <h1>bbb</h1>
 </MyComponent>
     </div>
+console.log(a)
 ToyReact.render(a,document.body)
